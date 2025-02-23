@@ -32,5 +32,9 @@ Bugünün Pokemon'unu 4 tahminde buldunuz! 😄
 ## Geliştirme
 - Henüz yalnızca konsol üzerinden kullanıma açık ancak yakın zamanda bir application veya web sitesi şekline de oyunu geliştirme amacım mevcuttur.
 
+## Geliştirici
+- Eren KÖSE - Bilgisayar Mühendisliği 3.sınıf öğrencisi
+
+
 **İyi eğlenceler! 🎮**
 
